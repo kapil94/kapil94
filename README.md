@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kapil94
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Learning and building projects.
+- 🌱 I’m currently learning Javascript
 
-- 💞️ I’m looking to collaborate on flask,python
+- 💞️ I’m looking to collaborate on building projects on Python.
 - 📫 How to reach me @8448347556 or mail@ kapilsharma647@gmail.com
 
 <!---
