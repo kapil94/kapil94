@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kapil94
+- 👋 Hi, I’m @kapil
 - 👀 I’m interested in Learning and building projects.
 - 🌱 I’m currently learning Javascript
 
